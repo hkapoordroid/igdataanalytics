@@ -10,7 +10,7 @@ redirectUrl = 'http://127.0.0.1:5000/index'
 
 @app.route('/')
 def authenticate():
-	igAuthUrl = 'https://api.instagram.com/oauth/authorize/?client_id='+clientID+'&redirect_uri='+redirectUrl+'&response_type=code'
+	igAuthUrl = 'https://api.instagram.com/oauth/authorize/?client_id='+clientID+'&redirect_uri='+redirectUrl+'&response_type=code&scope=basic+public_content+follower_list+comments+relationships+likes'
 	return redirect(igAuthUrl)
 
 @app.route('/index')

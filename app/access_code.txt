@@ -1,7 +1,6 @@
 16c7390350e94eab95f45f5f0310460b
 
 
-
 {
 access_token: "1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c",
 user: {
@@ -13,3 +12,12 @@ bio: "Travel Photography ✈| San Diego CA 🏠 | Posting pics taken by me 🙏"
 website: ""
 }
 }
+
+
+https://api.instagram.com/v1/users/self/?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
+https://api.instagram.com/v1/users/hvkapoor/?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
+https://api.instagram.com/v1/users/self/media/recent/?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
+https://api.instagram.com/v1/users/self/media/liked?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
+
+
+https://api.instagram.com/v1/users/self/followed-by?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
