@@ -1,0 +1,2 @@
+access key = AKIAIZ26IKJ2FXJJOVHA
+secret access key = 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
