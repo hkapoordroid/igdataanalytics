@@ -42,15 +42,12 @@ def index():
 	#start gathering data
 	print('Got the access tokens, lets start pulling data...')
 
-	#get user's info
-	print('Getting user''s self info')
-	datacollectors.gatherSelfData(accessToken)
+	#invoke the data collection main function
+	datacollectors.collectAllUserData(userName, accessToken)
 
-	#get user's own media data
-	print('Getting user self media data')
-	datacollectors.gatherSelfMediaData(accessToken)
 
 	return accessToken
+
 
 
 
