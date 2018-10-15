@@ -1,23 +1,23 @@
-16c7390350e94eab95f45f5f0310460b
+
 
 
 {
-access_token: "1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c",
+access_token: "",
 user: {
-id: "1278053550",
-username: "hvkapoor",
-profile_picture: "https://scontent.cdninstagram.com/t51.2885-19/s150x150/13658308_635540973286617_1250502242_a.jpg",
-full_name: "Harsh V Kapoor",
-bio: "Travel Photography ✈| San Diego CA 🏠 | Posting pics taken by me 🙏",
+id: "",
+username: "",
+profile_picture: "",
+full_name: "",
+bio: "",
 website: ""
 }
 }
 
 
-https://api.instagram.com/v1/users/self/?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
-https://api.instagram.com/v1/users/hvkapoor/?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
-https://api.instagram.com/v1/users/self/media/recent/?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
-https://api.instagram.com/v1/users/self/media/liked?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
+https://api.instagram.com/v1/users/self/?access_token=
+https://api.instagram.com/v1/users/hvkapoor/?access_token=
+https://api.instagram.com/v1/users/self/media/recent/?access_token=
+https://api.instagram.com/v1/users/self/media/liked?access_token=
 
 
-https://api.instagram.com/v1/users/self/followed-by?access_token=1278053550.bc3fe81.3e54ea1f308c45ad810304a3f2cea31c
+https://api.instagram.com/v1/users/self/followed-by?access_token=
