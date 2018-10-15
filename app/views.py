@@ -6,8 +6,8 @@ import boto3
 import datacollectors
 
 
-clientID = '26d2405a54464c8d93cc2cc786401246'
-clientSecret = '3f6f68e1ab2841a9831f10bf6a13bcfd'
+clientID = ''
+clientSecret = ''
 redirectUrl = 'http://127.0.0.1:5000/index'
 
 
